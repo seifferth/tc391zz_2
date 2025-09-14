@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/preproc/sbert_umap-v03_altmindist.tsv.gz	0.9173752105685332	euclidean	1.0	384	5

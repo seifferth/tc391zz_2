@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/raw/sbert_umap-v01_altmindist.tsv.gz	0.7215051610637988	cosine	1.0	512	5

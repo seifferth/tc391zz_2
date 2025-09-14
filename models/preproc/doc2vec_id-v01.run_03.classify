@@ -1,0 +1,2 @@
+model_name	SVM	KNN	TRE	SGD	average
+models/preproc/doc2vec_id-v01.tsv.gz	0.817	0.764	0.650	0.830	0.765

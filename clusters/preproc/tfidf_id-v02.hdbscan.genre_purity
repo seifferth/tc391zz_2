@@ -1,0 +1,2 @@
+model_name	genre_purity	genre_purity_by_cluster
+clusters/preproc/tfidf_id-v02.hdbscan.tsv.gz	0.48356164383561645	{"-1": 0.4496569627294641, "0": 1.0, "1": 0.8771428571428571, "2": 0.8913043478260869}

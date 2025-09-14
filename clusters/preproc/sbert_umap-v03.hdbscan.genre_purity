@@ -1,0 +1,2 @@
+model_name	genre_purity	genre_purity_by_cluster
+clusters/preproc/sbert_umap-v03.hdbscan.tsv.gz	0.46866438356164386	{"0": 0.6470588235294118, "1": 0.4681435686072471}

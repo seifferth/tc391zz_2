@@ -1,0 +1,2 @@
+model_name	psq_score	psq_score_zoom	psq_count	clusters	cluster_distribution
+clusters/schöch-agg/060tp-6000it-0300in.aggl.tsv.gz	N/A	N/A	N/A	10	{"green-1": 0.2238013698630137, "purple-1": 0.19212328767123288, "red-2": 0.12825342465753425, "green-2": 0.11147260273972602, "cyan-1": 0.11095890410958904, "yellow-1": 0.06438356164383562, "purple-2": 0.06267123287671234, "black-1": 0.03886986301369863, "cyan-2": 0.0386986301369863, "red-1": 0.028767123287671233}

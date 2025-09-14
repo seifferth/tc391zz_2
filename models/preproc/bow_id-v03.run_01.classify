@@ -1,0 +1,2 @@
+model_name	SVM	KNN	TRE	SGD	average
+models/preproc/bow_id-v03.tsv.gz	0.784	0.693	0.740	0.800	0.754

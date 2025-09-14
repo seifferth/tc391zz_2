@@ -1,0 +1,2 @@
+model_name	SVM	KNN	TRE	SGD	average
+models/preproc/tfidf_umap-v06.tsv.gz	0.813	0.821	0.760	0.776	0.793

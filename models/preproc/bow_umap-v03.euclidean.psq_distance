@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/preproc/bow_umap-v03.tsv.gz	0.1796822237838293	euclidean	1.0	12663	5

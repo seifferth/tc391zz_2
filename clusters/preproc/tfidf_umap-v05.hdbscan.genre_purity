@@ -1,0 +1,2 @@
+model_name	genre_purity	genre_purity_by_cluster
+clusters/preproc/tfidf_umap-v05.hdbscan.tsv.gz	0.47294520547945207	{"-1": 1.0, "0": 0.4703046996040627, "1": 0.9375}

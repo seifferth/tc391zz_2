@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/raw/doc2vec_id-v02.tsv.gz	0.784423390511156	euclidean	1.0	100	100

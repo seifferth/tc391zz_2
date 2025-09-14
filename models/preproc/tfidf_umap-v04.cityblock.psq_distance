@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/preproc/tfidf_umap-v04.tsv.gz	0.17308015919750647	cityblock	1.0	12663	50

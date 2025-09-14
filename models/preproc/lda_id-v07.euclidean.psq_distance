@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/preproc/lda_id-v07.tsv.gz	0.4369952069298622	euclidean	1.0	20	20

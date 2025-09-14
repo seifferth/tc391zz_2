@@ -1,0 +1,2 @@
+model_name	genre_purity	genre_purity_by_cluster
+clusters/schöch/090tp-6000it-0100in.hdbscan.tsv.gz	0.5356164383561643	{"-1": 0.44630961897148946, "0": 0.5, "1": 1.0, "2": 0.6712328767123288, "3": 1.0}

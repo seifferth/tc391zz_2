@@ -1,0 +1,2 @@
+model_name	genre_purity	genre_purity_by_cluster
+clusters/schöch-agg/060tp-6000it-0300in.aggl.tsv.gz	0.8616438356164383	{"black-1": 0.5242290748898678, "cyan-1": 0.9753086419753086, "cyan-2": 1.0, "green-1": 0.722264728385616, "green-2": 1.0, "purple-1": 0.8885918003565062, "purple-2": 0.7240437158469946, "red-1": 1.0, "red-2": 1.0, "yellow-1": 0.7473404255319149}

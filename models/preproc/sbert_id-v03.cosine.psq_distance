@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/preproc/sbert_id-v03.tsv.gz	0.8763100951721958	cosine	1.0	384	384

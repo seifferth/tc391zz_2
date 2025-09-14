@@ -1,0 +1,2 @@
+model_name	SVM	KNN	TRE	SGD	average
+models/preproc/sbert_id-v02.tsv.gz	0.771	0.714	0.612	0.776	0.718

@@ -1,0 +1,2 @@
+model_name	genre_purity	genre_purity_by_cluster
+clusters/preproc/lda_id-v03.hdbscan.tsv.gz	0.5261986301369863	{"-1": 0.42783384182116874, "0": 1.0, "1": 0.4314079422382672, "2": 1.0, "3": 1.0, "4": 0.9176470588235294, "5": 1.0}

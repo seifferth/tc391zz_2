@@ -1,0 +1,2 @@
+model_name	SVM	KNN	TRE	SGD	average
+models/preproc/lda_id-v03.tsv.gz	0.845	0.818	0.770	0.840	0.818

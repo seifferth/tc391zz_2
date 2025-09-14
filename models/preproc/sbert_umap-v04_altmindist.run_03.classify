@@ -1,0 +1,2 @@
+model_name	SVM	KNN	TRE	SGD	average
+models/preproc/sbert_umap-v04_altmindist.tsv.gz	0.730	0.699	0.623	0.686	0.685

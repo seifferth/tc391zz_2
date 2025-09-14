@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/preproc/sbert_umap-v04.tsv.gz	0.7479837136096149	cityblock	1.0	768	5

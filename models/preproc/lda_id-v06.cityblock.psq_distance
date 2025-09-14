@@ -1,0 +1,2 @@
+model_name	psq_distance	psq_distance_metric	psq_distance_sample_size	highdim_size	lowdim_size
+models/preproc/lda_id-v06.tsv.gz	0.3878677441976784	cityblock	1.0	10	10

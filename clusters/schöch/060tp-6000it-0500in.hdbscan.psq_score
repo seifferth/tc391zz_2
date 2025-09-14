@@ -1,0 +1,2 @@
+model_name	psq_score	psq_score_zoom	psq_count	clusters	cluster_distribution
+clusters/schöch/060tp-6000it-0500in.hdbscan.tsv.gz	0.31082824324416486	3.23453652244836	0.7869333822719765	3	{"1": 0.809931506849315, "-1": 0.18664383561643835, "0": 0.003424657534246575}

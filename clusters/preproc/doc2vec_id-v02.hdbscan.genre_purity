@@ -1,0 +1,2 @@
+model_name	genre_purity	genre_purity_by_cluster
+clusters/preproc/doc2vec_id-v02.hdbscan.tsv.gz	0.4678082191780822	{"-1": 0.4678082191780822}
